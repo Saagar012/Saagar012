@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working as **Freelance full Stack Java Developer.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saagar012](https://github.com/Saagar012)
-
 - 📝 I write articles on [caveontech.com](caveontech.com)
 
 - 📫 How to reach me **sagar.kc.a18@gmail.com**
