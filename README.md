@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar K.C.</h1>
-<h3 align="center">A passionate Java developer from Nepal</h3>
+<h3 align="center">A passionate Java developer from Canada</h3>
 
 - 🔭 I’m currently working as ** Spring/ J2EE Java Developer.**
 
